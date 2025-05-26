@@ -1,5 +1,5 @@
 # PSG
-PSG(SSG)サウンドドライバ MSX / PC-88 / X1turbo
+PSG(SSG)音源サウンドドライバ MSX / PC-88 / X1turbo
 
 MSX-BASIC版 テキストファイルを参照。 割り込み内でAレジスタ保存してないです。
 
